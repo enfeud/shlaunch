@@ -89,13 +89,13 @@
     },
     "build": {
         "appId": "ru.aurora.launcher",
-        "productName": "Aurora Launcher",
+        "productName": "shlaunch",
         "publish": [
             {
                 "provider": "github",
                 "releaseType": "release",
-                "owner": "AuroraTeam",
-                "repo": "Launcher"
+                "owner": "enfeud",
+                "repo": "shlaunch"
             }
         ],
         "directories": {
